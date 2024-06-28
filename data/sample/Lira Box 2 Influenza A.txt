@@ -1,0 +1,119 @@
+SpectraShop	5.0
+NUMBER_OF_SETS	96
+ORIGINATOR	""
+CREATED	"2017-05-28 17:40:30"
+SPECTRUM_TYPE	"Reflective"
+SURFACE	"Matte"
+INSTRUMENTATION	"i1Pro"
+INSTRUMENT_SERIAL_NUMBER	"1073009"
+MEASUREMENT_GEOMETRY	"45:0"
+MEASUREMENT_SOURCE	"A"
+MEASUREMENT_APERTURE	"4 mm"
+MEASUREMENT_FILTER	"None"
+SAMPLE_BACKING	"white"
+NSAMPLES	1
+OBSERVER	"2 degree"
+ILLUMINANT	"D65"
+RGB_SPACE	"sRGB"
+NUMBER_OF_FIELDS	6
+BEGIN_DATA_FORMAT
+SAMPLE_ID1	SAMPLE_ID2	SAMPLE_ID3	STATUS_E_R	STATUS_E_G	STATUS_E_B	
+END_DATA_FORMAT
+BEGIN_DATA
+"Untitled-0"	""	""	0.981	0.697	0.828	
+"Untitled-1"	""	""	0.698	0.528	0.702	
+"Untitled-2"	""	""	1.294	0.686	0.744	
+"Untitled-3"	""	""	1.250	0.664	0.697	
+"Untitled-4"	""	""	1.383	0.687	0.710	
+"Untitled-5"	""	""	1.309	0.697	0.720	
+"Untitled-6"	""	""	1.278	0.676	0.711	
+"Untitled-7"	""	""	1.476	0.780	0.714	
+"Untitled-8"	""	""	1.384	0.790	0.850	
+"Untitled-9"	""	""	0.825	0.624	0.720	
+"Untitled-10"	""	""	1.151	0.641	0.715	
+"Untitled-11"	""	""	1.301	0.612	0.689	
+"Untitled-12"	""	""	1.110	0.601	0.650	
+"Untitled-13"	""	""	1.277	0.608	0.658	
+"Untitled-14"	""	""	0.890	0.506	0.592	
+"Untitled-15"	""	""	1.376	0.606	0.628	
+"Untitled-16"	""	""	1.361	0.773	0.873	
+"Untitled-17"	""	""	1.603	1.025	0.972	
+"Untitled-18"	""	""	1.081	0.609	0.720	
+"Untitled-19"	""	""	1.178	0.576	0.673	
+"Untitled-20"	""	""	1.201	0.562	0.596	
+"Untitled-21"	""	""	1.233	0.573	0.637	
+"Untitled-22"	""	""	1.343	0.619	0.677	
+"Untitled-23"	""	""	1.350	0.572	0.608	
+"Untitled-24"	""	""	1.181	0.716	0.848	
+"Untitled-25"	""	""	1.340	0.714	0.839	
+"Untitled-26"	""	""	1.067	0.630	0.724	
+"Untitled-27"	""	""	0.953	0.570	0.697	
+"Untitled-28"	""	""	0.933	0.539	0.622	
+"Untitled-29"	""	""	1.235	0.562	0.616	
+"Untitled-30"	""	""	1.287	0.559	0.669	
+"Untitled-31"	""	""	1.277	0.560	0.623	
+"Untitled-32"	""	""	1.168	0.742	0.858	
+"Untitled-33"	""	""	1.466	0.821	0.925	
+"Untitled-34"	""	""	1.160	0.639	0.754	
+"Untitled-35"	""	""	1.195	0.595	0.713	
+"Untitled-36"	""	""	1.230	0.559	0.645	
+"Untitled-37"	""	""	1.054	0.521	0.646	
+"Untitled-38"	""	""	1.252	0.553	0.659	
+"Untitled-39"	""	""	1.350	0.576	0.654	
+"Untitled-40"	""	""	1.496	0.956	1.030	
+"Untitled-41"	""	""	0.878	0.631	0.779	
+"Untitled-42"	""	""	1.002	0.603	0.751	
+"Untitled-43"	""	""	1.038	0.604	0.730	
+"Untitled-44"	""	""	1.095	0.594	0.714	
+"Untitled-45"	""	""	0.996	0.531	0.663	
+"Untitled-46"	""	""	1.327	0.576	0.675	
+"Untitled-47"	""	""	1.401	0.612	0.650	
+"Untitled-48"	""	""	1.419	0.780	0.933	
+"Untitled-49"	""	""	1.109	0.704	0.858	
+"Untitled-50"	""	""	1.174	0.621	0.748	
+"Untitled-51"	""	""	0.931	0.568	0.693	
+"Untitled-52"	""	""	0.972	0.537	0.669	
+"Untitled-53"	""	""	0.882	0.492	0.590	
+"Untitled-54"	""	""	1.338	0.569	0.643	
+"Untitled-55"	""	""	1.409	0.597	0.629	
+"Untitled-56"	""	""	1.341	0.775	0.952	
+"Untitled-57"	""	""	1.045	0.622	0.830	
+"Untitled-58"	""	""	1.281	0.725	0.904	
+"Untitled-59"	""	""	0.884	0.568	0.734	
+"Untitled-60"	""	""	1.150	0.586	0.747	
+"Untitled-61"	""	""	1.054	0.570	0.728	
+"Untitled-62"	""	""	1.478	0.680	0.775	
+"Untitled-63"	""	""	1.424	0.600	0.698	
+"Untitled-64"	""	""	1.149	0.654	0.834	
+"Untitled-65"	""	""	1.242	0.728	0.925	
+"Untitled-66"	""	""	1.070	0.613	0.793	
+"Untitled-67"	""	""	1.088	0.591	0.762	
+"Untitled-68"	""	""	1.056	0.550	0.721	
+"Untitled-69"	""	""	1.375	0.598	0.740	
+"Untitled-70"	""	""	1.234	0.547	0.624	
+"Untitled-71"	""	""	1.379	0.607	0.666	
+"Untitled-72"	""	""	1.272	0.714	0.877	
+"Untitled-73"	""	""	1.453	0.894	1.070	
+"Untitled-74"	""	""	1.390	0.771	0.955	
+"Untitled-75"	""	""	1.472	0.815	0.971	
+"Untitled-76"	""	""	1.292	0.594	0.777	
+"Untitled-77"	""	""	1.328	0.627	0.798	
+"Untitled-78"	""	""	1.314	0.572	0.743	
+"Untitled-79"	""	""	1.413	0.654	0.780	
+"Untitled-80"	""	""	1.238	0.718	0.881	
+"Untitled-81"	""	""	1.394	0.759	0.914	
+"Untitled-82"	""	""	1.360	0.635	0.835	
+"Untitled-83"	""	""	1.310	0.623	0.812	
+"Untitled-84"	""	""	1.340	0.701	0.867	
+"Untitled-85"	""	""	1.325	0.628	0.811	
+"Untitled-86"	""	""	1.463	0.751	0.936	
+"Untitled-87"	""	""	1.293	0.588	0.722	
+"Untitled-88"	""	""	1.141	0.830	0.950	
+"Untitled-89"	""	""	1.323	0.715	0.888	
+"Untitled-90"	""	""	1.399	0.722	0.890	
+"Untitled-91"	""	""	1.375	0.723	0.888	
+"Untitled-92"	""	""	0.570	0.496	0.585	
+"Untitled-93"	""	""	0.415	0.372	0.425	
+"Untitled-94"	""	""	0.411	0.370	0.472	
+"Untitled-95"	""	""	0.325	0.288	0.332	
+END_DATA

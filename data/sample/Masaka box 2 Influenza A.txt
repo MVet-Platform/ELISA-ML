@@ -1,0 +1,111 @@
+SpectraShop	5.0
+NUMBER_OF_SETS	88
+ORIGINATOR	""
+CREATED	"2017-05-29 12:46:02"
+SPECTRUM_TYPE	"Reflective"
+SURFACE	"Matte"
+INSTRUMENTATION	"i1Pro"
+INSTRUMENT_SERIAL_NUMBER	"1073009"
+MEASUREMENT_GEOMETRY	"45:0"
+MEASUREMENT_SOURCE	"A"
+MEASUREMENT_APERTURE	"4 mm"
+MEASUREMENT_FILTER	"None"
+SAMPLE_BACKING	"white"
+NSAMPLES	1
+OBSERVER	"2 degree"
+ILLUMINANT	"D65"
+RGB_SPACE	"sRGB"
+NUMBER_OF_FIELDS	6
+BEGIN_DATA_FORMAT
+SAMPLE_ID1	SAMPLE_ID2	SAMPLE_ID3	STATUS_E_R	STATUS_E_G	STATUS_E_B	
+END_DATA_FORMAT
+BEGIN_DATA
+"Untitled-0"	""	""	0.714	0.540	0.644	
+"Untitled-1"	""	""	0.659	0.571	0.729	
+"Untitled-2"	""	""	1.588	0.946	0.876	
+"Untitled-3"	""	""	1.372	0.769	0.705	
+"Untitled-4"	""	""	1.462	0.739	0.723	
+"Untitled-5"	""	""	1.380	0.773	0.743	
+"Untitled-6"	""	""	1.536	0.790	0.750	
+"Untitled-7"	""	""	1.451	0.733	0.719	
+"Untitled-8"	""	""	1.605	1.090	1.011	
+"Untitled-9"	""	""	1.578	0.900	0.864	
+"Untitled-10"	""	""	1.591	0.939	0.859	
+"Untitled-11"	""	""	1.605	0.922	0.830	
+"Untitled-12"	""	""	1.507	0.746	0.657	
+"Untitled-13"	""	""	1.476	0.679	0.551	
+"Untitled-14"	""	""	1.509	0.680	0.636	
+"Untitled-15"	""	""	1.249	0.550	0.577	
+"Untitled-16"	""	""	1.524	0.955	0.921	
+"Untitled-17"	""	""	1.553	0.878	0.791	
+"Untitled-18"	""	""	1.582	1.031	0.912	
+"Untitled-19"	""	""	1.509	0.822	0.717	
+"Untitled-20"	""	""	1.434	0.612	0.603	
+"Untitled-21"	""	""	1.519	0.745	0.673	
+"Untitled-22"	""	""	1.467	0.632	0.603	
+"Untitled-23"	""	""	1.298	0.579	0.618	
+"Untitled-24"	""	""	1.568	1.078	1.005	
+"Untitled-25"	""	""	1.605	1.011	0.927	
+"Untitled-26"	""	""	1.591	0.870	0.820	
+"Untitled-27"	""	""	1.580	0.903	0.754	
+"Untitled-28"	""	""	1.443	0.607	0.551	
+"Untitled-29"	""	""	1.449	0.612	0.584	
+"Untitled-30"	""	""	1.413	0.583	0.561	
+"Untitled-31"	""	""	1.439	0.613	0.605	
+"Untitled-32"	""	""	1.523	0.914	0.880	
+"Untitled-33"	""	""	1.573	0.860	0.859	
+"Untitled-34"	""	""	1.455	0.693	0.724	
+"Untitled-35"	""	""	1.539	0.783	0.708	
+"Untitled-36"	""	""	1.440	0.618	0.553	
+"Untitled-37"	""	""	1.450	0.617	0.585	
+"Untitled-38"	""	""	1.403	0.611	0.593	
+"Untitled-39"	""	""	1.417	0.624	0.587	
+"Untitled-40"	""	""	1.439	0.883	0.870	
+"Untitled-41"	""	""	1.565	0.977	0.951	
+"Untitled-42"	""	""	1.553	0.898	0.832	
+"Untitled-43"	""	""	1.497	0.668	0.645	
+"Untitled-44"	""	""	1.434	0.608	0.613	
+"Untitled-45"	""	""	1.405	0.588	0.621	
+"Untitled-46"	""	""	1.469	0.607	0.562	
+"Untitled-47"	""	""	1.289	0.576	0.622	
+"Untitled-48"	""	""	1.501	0.793	0.831	
+"Untitled-49"	""	""	1.557	0.803	0.827	
+"Untitled-50"	""	""	1.559	0.764	0.745	
+"Untitled-51"	""	""	1.424	0.639	0.646	
+"Untitled-52"	""	""	1.233	0.567	0.642	
+"Untitled-53"	""	""	1.388	0.580	0.617	
+"Untitled-54"	""	""	1.072	0.527	0.591	
+"Untitled-55"	""	""	1.010	0.534	0.600	
+"Untitled-56"	""	""	1.509	0.886	0.880	
+"Untitled-57"	""	""	1.516	0.839	0.853	
+"Untitled-58"	""	""	1.448	0.638	0.694	
+"Untitled-59"	""	""	1.409	0.609	0.648	
+"Untitled-60"	""	""	1.314	0.581	0.657	
+"Untitled-61"	""	""	1.271	0.559	0.651	
+"Untitled-62"	""	""	1.115	0.537	0.620	
+"Untitled-63"	""	""	0.811	0.467	0.544	
+"Untitled-64"	""	""	1.525	0.854	0.871	
+"Untitled-65"	""	""	1.505	0.774	0.798	
+"Untitled-66"	""	""	1.535	0.800	0.756	
+"Untitled-67"	""	""	1.463	0.656	0.624	
+"Untitled-68"	""	""	1.433	0.607	0.605	
+"Untitled-69"	""	""	1.275	0.575	0.642	
+"Untitled-70"	""	""	1.313	0.553	0.556	
+"Untitled-71"	""	""	1.339	0.565	0.596	
+"Untitled-72"	""	""	1.530	0.874	0.858	
+"Untitled-73"	""	""	1.519	0.843	0.870	
+"Untitled-74"	""	""	1.552	0.803	0.782	
+"Untitled-75"	""	""	1.492	0.653	0.676	
+"Untitled-76"	""	""	1.576	0.828	0.759	
+"Untitled-77"	""	""	1.434	0.592	0.599	
+"Untitled-78"	""	""	1.190	0.549	0.616	
+"Untitled-79"	""	""	0.856	0.459	0.552	
+"Untitled-80"	""	""	1.385	0.609	0.720	
+"Untitled-81"	""	""	1.508	0.845	0.815	
+"Untitled-82"	""	""	1.479	0.708	0.744	
+"Untitled-83"	""	""	1.498	0.738	0.706	
+"Untitled-84"	""	""	1.388	0.589	0.591	
+"Untitled-85"	""	""	0.868	0.509	0.559	
+"Untitled-86"	""	""	0.799	0.443	0.529	
+"Untitled-87"	""	""	1.022	0.485	0.553	
+END_DATA
